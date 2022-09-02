@@ -17,5 +17,5 @@ My work is primarily in computational fluid dynamics, with a focus on geophysica
 
 I am the lead developer of [FlowSieve](https://github.com/husseinaluie/FlowSieve), an open-source tool to help enable the scientific community to easily and efficiently apply multi-scale decompositions in spherical / Earth-like settings.
 
-In my spare time, I like reading, running, yoga, and a, a devout Star Trek fan.
+In my spare time, I like reading, cycling, running, yoga, and am a devout Star Trek fan.
 
