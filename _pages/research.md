@@ -10,11 +10,7 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-My research lies at the intersection of physical oceanography and computational science. Current research projects include:
-- Ocean Mesoscale Eddies
-- Uncertainty Quantification & Observing System Design
-- Oceanic Teleconnections in the North Atlantic
-- Development of Open Source Software Tools
+My research projects tend to fall in the intriguing intersection of oceanic fluid mechanics, computational science, and mathematics.
 
 ## Disentangling Large-scale Oceanic Flows
 

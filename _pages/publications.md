@@ -17,8 +17,5 @@ author_profile: true
 ## Thesis
 
 | <a href="/assets/images/QGJetDestabilize.png"><img src="/assets/images/QGJetDestabilize.png" width="400px" alt=""> | 
-**Storer, B.A.** (2018).  [*Development and Application of Models and Diagnostics for Geophysical Fluid Flows*](https://uwspace.uwaterloo.ca/handle/10012/14320), Ph.D. Dissertation_, University of Waterloo, Canada.|
-
-
-
+**Storer, B.A.** (2018).  [*Development and Application of Models and Diagnostics for Geophysical Fluid Flows*](https://uwspace.uwaterloo.ca/handle/10012/14320), Ph.D. Dissertation, University of Waterloo, Canada.|
 
