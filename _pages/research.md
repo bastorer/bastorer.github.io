@@ -19,7 +19,7 @@ My research lies at the intersection of physical oceanography and computational 
 ## Disentangling Large-scale Oceanic Flows
 
 <figure>
-  <img src="/assets/images/NatCommStreamlines.png.png" width="1000px" alt="">
+  <img src="/assets/images/NatCommStreamlines.png" width="1000px" alt="">
   <figcaption>
     Full ocean currents, shown by the colour map, from a 1/12-degree global model dataset. Overlain are streamlines of the ocean currents with all scales smaller than 1000 km removed.
   </figcaption>
