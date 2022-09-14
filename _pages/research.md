@@ -10,7 +10,11 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-My research projects tend to fall in the intriguing intersection of oceanic fluid mechanics, computational science, and mathematics.
+My research projects tend to fall in the interesting intersection of oceanic fluid mechanics, computational science, and mathematics.
+More concretely, I enjoy the (often cyclical) work-flow of
+1. Devising / deriving physically meaningful mathematical diagnostics for analyzing ocean data
+2. Developing high-efficiency computer routines to implement those diagnostics
+3. Analyzing / interpreting / contextualizing the diagnostics to learn new things about the world's oceans
 
 ## Disentangling Large-scale Oceanic Flows
 
@@ -21,10 +25,9 @@ My research projects tend to fall in the intriguing intersection of oceanic flui
   </figcaption>
 </figure>
 
-Talk about what I do.
-
 
 ## Open-source Tool Development
 
-Talk about FlowSieve.
+I'm the lead developer of [FlowSieve](https://github.com/husseinaluie/FlowSieve), a C++ library that provides tools for analyzing global ocean data.
+
 

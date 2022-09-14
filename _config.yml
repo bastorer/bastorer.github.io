@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Benjamin Storer"
   avatar           : "/assets/images/Avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 
+  bio              : "Mathematician / Ocean Scientist\nI use computational tools to study the physics and behaviour of the world's oceans.\n\nCyclist, runner, Trekkie and tea-drinker."
   location         : "Rochester, New York"
   email            : "benjamin.storer@rochester.edu"
   uri              :
