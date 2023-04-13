@@ -8,7 +8,7 @@ author_profile: true
 
 ## Journal Articles
 
-| | **Storer, B.A.** and Aluie, H. (2023). [*flowsieve: A Coarse-Graining Utility for Geophysical Flows on the Sphere*](https://doi.org/10.21105/joss.04277) Journal of Open Source Software, 8(84), 4277. doi: https://doi.org/10.21105/joss.04277|
+| <a href="/assets/images/FlowSieveVTune.png"><img src="/assets/imagesFlowSieveVTune.png" width="400px" alt=""> | **Storer, B.A.** and Aluie, H. (2023). [*flowsieve: A Coarse-Graining Utility for Geophysical Flows on the Sphere*](https://doi.org/10.21105/joss.04277) Journal of Open Source Software, 8(84), 4277. doi: https://doi.org/10.21105/joss.04277|
 | <a href="/assets/images/NatCommStreamlines.png"><img src="/assets/images/NatCommStreamlines.png" width="400px" alt=""> | **Storer, B.A.**, Buzzicotti, M., Khatri, H., Griffies, S. M., and Aluie, H. (2022). [*Global energy spectrum of the general oceanic circulation*](https://doi.org/10.1038/s41467-022-33031-3) Nature Communications, 13(1), 5314. doi: https://doi.org/10.1038/s41467-022-33031-3|
 |  | Magill M., Coutino A., **Storer, B.A.**, Stastna, M., and Poulin, F.J. (2019). [*Dynamics of nonlinear Alfvén waves in the shallow water magnetohydrodynamic equations.*](https://doi.org/10.1103/PhysRevFluids.4.053701) Physical Review Fluids, 4(5) 053701. doi: https://doi.org/10.1103/PhysRevFluids.4.053701|
 | <a href="/assets/images/LensVortex.jpg"><img src="/assets/images/LensVortex.jpg" width="200px" alt=""> | **Storer, B.A.**, Poulin, F.J., and Ménesguen, C. (2018). [*The Dynamics of Quasigeostrophic Lens-shaped Vortices*](https://doi.org/10.1175/JPO-D-17-0039.1). Journal of Physical Oceanography, 48, 937-957. doi: https://doi.org/10.1175/JPO-D-17-0039.1|
