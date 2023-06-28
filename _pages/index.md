@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/BenStorer.jpg" width="200px" alt="Ben Storer" align="right" padding="20px" />
+<img src="/assets/images/BenStorer.jpg" width="200px" alt="Ben Storer" align="right" padding="30px" />
 
 # About
 
