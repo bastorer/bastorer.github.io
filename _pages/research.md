@@ -28,6 +28,6 @@ More concretely, I enjoy the (often cyclical) work-flow of
 
 ## Open-source Tool Development
 
-I'm the lead developer of [FlowSieve](https://github.com/husseinaluie/FlowSieve), a C++ library that provides tools for analyzing global ocean data.
+I'm the lead developer of [FlowSieve](https://github.com/husseinaluie/FlowSieve), a C++ library that provides tools for analyzing global oceanic and atmospheric data in mathematically rigorous and physically meaningful ways.
 
 
