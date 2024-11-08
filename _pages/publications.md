@@ -8,7 +8,7 @@ author_profile: true
 
 ## Journal Articles
 
-|  | Kouhen, S., **Storer, B. A.**, Aluie, H., Marhsall, D. P., \& Christensen, H. M. (2024) *Convective and orographic origins of the mesoscale kinetic energy spectrum*. Geophysical Research Letters, [Accepted].|
+|  | Kouhen, S., **Storer, B. A.**, Aluie, H., Marhsall, D. P., \& Christensen, H. M. (2024) [*Convective and orographic origins of the mesoscale kinetic energy spectrum*](https://doi.org/10.1029/2024GL110804). Geophysical Research Letters, 51(21).|
 | <a href="/assets/images/Lunar.png"><img src="/assets/images/Lunar.png" width="400px" alt=""> | Xue, S., **Storer, B. A.**, Glade, R. C., and Aluie (2024). [*Surface Variability Mapping and Roughness Analysis of the Moon Using a Coarse-Graining Decomposition*](https://doi.org/10.1029/2024JE008484). Journal of Geophysical Reserach: Planets, 129(10).|
 |  | Khatri, H., Griffies, S. M., **Storer, B. A.**, Buzzicotti, M., Aluie, H., Sonnewald, M., Dussin, R., and Shao, A. E. (2024). [*A scale-dependent analysis of the barotropic vorticity budget in a global ocean simulation*](https://doi.org/10.1029/2023MS003813). Journal of Advances in Modeling Earth Systems, 16, 1–29.|
 | <a href="/assets/images/SciAdv_2023_Globe.png"><img src="/assets/images/SciAdv_2023_Globe.png" width="400px" alt=""> |**Storer, B. A.**, Buzzicotti, M., Khatri, H., Griffies, S. M., & Aluie, H. (2023). [*Global cascade of kinetic energy in the ocean and the atmospheric imprint.*](https://doi.org/10.1126/sciadv.adi7420), Science Advances, 9(51). doi: https://doi.org/10.1126/sciadv.adi7420|
