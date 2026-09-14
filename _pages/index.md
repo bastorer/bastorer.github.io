@@ -10,7 +10,7 @@ author_profile: true
 
 # About
 
-I am a research associate at the University of Rochester in the [complex flow group](http://www.complexflowgroup.com) studying multi-scale physics in oceanographic processes and the mechanisms by which energy is transferred across scales in the world's oceans. 
+I am a Research Assistant Professor at the University of Rochester in the [complex flow group](http://www.complexflowgroup.com) studying multi-scale physics in oceanographic processes and the mechanisms by which energy is transferred across scales in the world's oceans. 
 I earned a Ph.D. in Applied Mathematics at the University of Waterloo, Canada, where I studied geophysical fluid dynamics under Francis Poulin, with a focus on model development and application to stratified quasi-geostrophic systems. 
 I then joined the University of Rochester as Postdoctoral Research Associate from 2019 until 2022, when I was promoted to Research Associate in the Department of Mechanical Engineering. 
 My work is primarily in computational fluid dynamics, with a focus on geophysical and oceanographic applications. 
