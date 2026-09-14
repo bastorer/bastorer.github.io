@@ -18,7 +18,7 @@ More concretely, I enjoy the (often cyclical) work-flow of
 I primarily work in the field known as *geophysical fluid dynamics*, which studies the behaviour of fluid systems that are on scales large enough to be affected by the rotation of the Earth.
 
 <figure>
-  <img src="/assets/images/Ocean-zoom.jp2" width="1000px" alt="">
+  <img src="/assets/images/Ocean-zoom.jpg" width="1000px" alt="">
   <figcaption>
         Centred on the south pole, we start fully zoomed out (far left), and progressively zoom further in (moving to the right), showing the incredible range of physical scales present in the world's oceans.
   </figcaption>
